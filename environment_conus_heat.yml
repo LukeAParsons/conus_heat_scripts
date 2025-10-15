@@ -1,0 +1,16 @@
+name: conus_heat_figures
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - xarray
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - netCDF4
+  - cartopy
+  - xesmf
+  - numpy
+  - jupyter
